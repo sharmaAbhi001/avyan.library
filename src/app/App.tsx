@@ -67,7 +67,7 @@ export default function App() {
         <div className="container mx-auto px-4 py-4 flex items-center justify-between">
           <div className="flex items-center gap-2">
             <BookOpen className="w-8 h-8" />
-            <h1 className="text-2xl font-bold">Avyansh Digital Library</h1>
+            <h1 className="text-2xl font-bold">Avyan Digital Library</h1>
           </div>
 
           {/* Desktop Navigation */}
@@ -153,7 +153,7 @@ export default function App() {
         <div className="container mx-auto px-4 text-center">
           <div className="max-w-3xl mx-auto">
             <h2 className="text-5xl md:text-6xl font-bold text-blue-900 mb-6">
-              Welcome to Avyansh Digital Library
+              Welcome to Avyan Digital Library
             </h2>
             <p className="text-xl text-gray-700 mb-8">
               Your gateway to unlimited knowledge and learning. Access thousands of books, 
@@ -252,13 +252,13 @@ export default function App() {
         <div className="container mx-auto px-4 text-center">
           <div className="flex items-center justify-center gap-2 mb-4">
             <BookOpen className="w-6 h-6" />
-            <h3 className="text-xl font-bold">Avyansh Digital Library</h3>
+            <h3 className="text-xl font-bold">Avyan Digital Library</h3>
           </div>
           <p className="text-blue-200 mb-2">
             Empowering minds through digital knowledge
           </p>
           <p className="text-blue-300 text-sm">
-            © 2026 Avyansh Digital Library. All rights reserved.
+            © 2026 Avyan Digital Library. All rights reserved.
           </p>
         </div>
       </footer>
